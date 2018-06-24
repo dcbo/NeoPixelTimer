@@ -329,16 +329,6 @@ void loop()
         Serial.print("New Animation: ");
         Serial.println(g_curAnim );
     }
-    
-//    Serial.print("millis:");
-//    Serial.println(millis());
-//    Serial.print("g_lastMillis:");
-//    Serial.println(g_lastMillis);
-//    Serial.print("forceUpdate:");
-//    Serial.println(forceUpdate);
-//    Serial.print("g_curDelay:");
-//    Serial.println(g_curDelay);
-//    Serial.println("-----------");
 
     // Update Current Animation if due
     if ( ((millis() - g_lastMillis) > g_curDelay) || forceUpdate) {        
