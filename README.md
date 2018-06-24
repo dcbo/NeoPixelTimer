@@ -2,7 +2,8 @@
 Game and Sleep Timer for my daugther with a Button to switch between different modes
 
 # Modes
-Mode 0: Sleep / Standby   
+
+## Mode 0: Sleep / Standby   
 - a Red Dot cycles arround with 1 Pixel / minute
 
 ## Mode 1: Play Timer
