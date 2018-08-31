@@ -31,7 +31,7 @@ Game and Sleep Timer for my daugther with a Button to switch between different m
 - blink all LEDs dark violett (PLAY_COLOR_END)
 - until Button is pressed, then switch to mode 2
 
-## Mode 5: End Of Toothbrush)
+## Mode 5: End Of Toothbrush
 - blink all LEDs dark white (TOOTH_COLOR_END)
 - until Button is pressed, then switch to mode 3
 
